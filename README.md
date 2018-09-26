@@ -1,4 +1,6 @@
-# joi-words-extension
+[![Build Status](https://travis-ci.org/Palmabit-IT/joi-words-extension.svg?branch=master)](https://travis-ci.org/Palmabit-IT/joi-words-extension)
+
+# Joi Words Extension
 
 Joi extensions for words.
 
