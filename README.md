@@ -17,5 +17,5 @@ const BaseJoi = require('joi');
 const Extension = require('@palmabit/joi-words-extension');
 const Joi = BaseJoi.extend(Extension);
 
-const schema = Joi.string().maxWords(500);
+const schema = Joi.string().minWords(100).maxWords(500);
 ```
