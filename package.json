@@ -1,0 +1,25 @@
+{
+  "name": "@palmabit/joi-words-extension",
+  "description": "Joi extension for words",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "schema",
+    "validation",
+    "joi",
+    "extension",
+    "words"
+  ],
+  "author": "Palmabit Srl<hello@palmabit.com>",
+  "peerDependencies": {
+    "joi": ">=10.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "joi": "11.x.x"
+  }
+}
