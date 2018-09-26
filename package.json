@@ -11,8 +11,8 @@
     "words"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/Palmabit-IT/joi-words-extension.git"
+    "type": "git",
+    "url": "https://github.com/Palmabit-IT/joi-words-extension.git"
   },
   "homepage": "https://github.com/Palmabit-IT/joi-words-extension",
   "author": "Palmabit Srl<hello@palmabit.com>",
