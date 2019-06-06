@@ -1,7 +1,7 @@
 {
   "name": "@palmabit/joi-words-extension",
   "description": "Joi extension for words",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "lib/index.js",
   "keywords": [
     "schema",
@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "jest": "^23.6.0",
+    "jest": "^24.8.0",
     "joi": "11.x.x"
   }
 }
